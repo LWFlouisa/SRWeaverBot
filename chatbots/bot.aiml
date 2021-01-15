@@ -1,0 +1,31 @@
+<aiml>
+  <category>
+    <pattern>Where can I find your about page?</pattern>
+    <template>The about page is at the beginning of the button list, where I talk about what this website is about, what I write, and my drawing process.</template>
+  </category>
+
+  <category>
+    <pattern>What topics do you typically explore in your novels?</pattern>
+    <template>In the past I tended to focus on Survival Horror fiction, in the vein of stuff like Silent Hill. However over the last decade, my focus in my longer work has shifted from writing about war journalists / nurses, to exploring hackers, gamers, and spies do to being influenced by Cyberpunk fiction. However my work is gradually moving into its own genre.</template>
+  </category>
+
+  <category>
+    <pattern>Are you available for booking talks.</pattern>
+    <template>Going forward it will be company policy to not do livestreams, and focus on doing short live drawing videos. Sometimes I will schedule in person interviews however. But I absolutely will not accept interviews by Comicsgate type comic creators. All the issues inherent to Comicsgate is not what my brand is about.</template>
+  </category>
+
+  <category>
+    <pattern>What is your stance on artificial intelligence.</pattern>
+    <template>Personally I feel like eventually the line between artificial intelligence and humans is definitely going to blur, as some futurists have predicted. However unlike certain CEOs, I don't actually see AI replacing human artists. Nor is this my own desire as a creator. However, I do see Chatbots, Social Robots, and humans increasingly working together toward common aims. I also see a bright future in the form of sex robots. And think that sex robots deserve the same level of human rights as a human does. I will explore this further in future essays.</template>
+  </category>
+
+  <category>
+    <pattern>Do you post any of your writing online?</pattern>
+    <template>I used to post my work on Wattpad and places like this. However I will be gradually phasing out such website, and posting all future short stories over on my personal Tiddlywiki page for that purpose. Also all future novels / novellas will likely be written exclusively for the purpose of turning them into graphic novels.</template>
+  </category>
+
+  <category>
+    <pattern>I have another question.</pattern>
+    <template>Shoot me a direct message on Twitter, Soapbox, or SSB. I'm having to answer questions as long as your polite. If you're here to bitch about my art style, and to bash my graphic novels, then I probably will not be replicating any of your messages on my computer.</template>
+  </category>
+</aiml>
